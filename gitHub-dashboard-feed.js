@@ -15,7 +15,7 @@
 // @grant        GM.notification
 // @run-at       document-start
 // @updateURL    https://github.com/Greedysky/github-dashboard-feed
-// @downloadURL  https://raw.githubusercontent.com/Greedysky/github-dashboard-feed/refs/heads/master/github-dashboard-feed.js
+// @downloadURL  https://raw.githubusercontent.com/Greedysky/github-dashboard-feed/refs/heads/main/gitHub-dashboard-feed.js
 // ==/UserScript==
 
 /**
